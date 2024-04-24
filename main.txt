@@ -1,0 +1,2 @@
+El curso tiene varios proyectos, asi que por cada rama, voy a tener un proyecto, este es el main, el cual no contiene nada mas que este archivo txt para explicar que
+es esto, el curso es de aca -> https://www.youtube.com/watch?v=BLlEgtp2_i8&t=1s
